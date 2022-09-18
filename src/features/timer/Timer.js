@@ -87,6 +87,7 @@ export const Timer = ({ focusSubject, onTimerEnd, clearSubject }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    margineTop:10,
   },
   title: {
     color: colors.white,
